@@ -18,7 +18,7 @@ $ fisher unreliable-angels/fzf_select_emoji
 function fish_user_key_bindings
     ...
 
-    bind \ee peco_select_emoji
+    bind \ee fzf_select_emoji
 
     ...
 end
